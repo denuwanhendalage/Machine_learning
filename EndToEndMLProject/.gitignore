@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment variables
+.env
